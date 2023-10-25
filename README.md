@@ -1,4 +1,6 @@
 # MLAlgos
+From-scratch implementations of various ML algorithms.
+
 This repository contains implementations of various statistical and machine learning algorithms that I have
 written over the years. 
 
