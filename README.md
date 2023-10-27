@@ -25,6 +25,9 @@ standard Iris data set, and mathematical descriptions of the steps of each imple
 examples of how I have learned to think about ML frameworks in general, and I feel these notebooks
 provide a near-comprehensive picture of how I personally understand these algorithms.
 
+The data folder here will eventually contain the datasets (synthetic or benchmark) to which many of
+these algorithm implementations will be applied.
+
 Stay tuned to this repo for further implementations of ML algorithms (generally following the
 complete ones above in structure). 
 
